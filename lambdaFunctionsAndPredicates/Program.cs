@@ -10,6 +10,7 @@ namespace lambdaFunctionsAndPredicates
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
